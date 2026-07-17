@@ -1,0 +1,14 @@
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\bin\Debug\net8.0\SchoolManeager.exe
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\bin\Debug\net8.0\SchoolManeager.deps.json
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\bin\Debug\net8.0\SchoolManeager.runtimeconfig.json
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\bin\Debug\net8.0\SchoolManeager.dll
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\bin\Debug\net8.0\SchoolManeager.pdb
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\obj\Debug\net8.0\SchoolManeager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\obj\Debug\net8.0\SchoolManeager.AssemblyInfoInputs.cache
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\obj\Debug\net8.0\SchoolManeager.AssemblyInfo.cs
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\obj\Debug\net8.0\SchoolManeager.csproj.CoreCompileInputs.cache
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\obj\Debug\net8.0\SchoolManeager.dll
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\obj\Debug\net8.0\refint\SchoolManeager.dll
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\obj\Debug\net8.0\SchoolManeager.pdb
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\obj\Debug\net8.0\SchoolManeager.genruntimeconfig.cache
+E:\Project\ConsoleApp\SchoolManeager\SchoolManeager\obj\Debug\net8.0\ref\SchoolManeager.dll
